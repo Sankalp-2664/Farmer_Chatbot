@@ -10,3 +10,4 @@ python-dotenv
 streamlit
 langchain
 datetime
+langchain_community
